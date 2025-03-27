@@ -1,9 +1,4 @@
 
-  "devDependencies": {
-    "jest": "^29.7.0"
-  },
- 
-  "main": "emailValidator.js",
   "name": "qa-unit-testing",
   "version": "1.0.0",
   "description": "",
@@ -22,7 +17,3 @@
     "url": "https://github.com/brightkaranja/QA-Unit-Testing/issues"
   },
   "homepage": "https://github.com/brightkaranja/QA-Unit-Testing#readme",
- 
-
-
-
